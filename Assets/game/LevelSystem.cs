@@ -28,3 +28,6 @@ public class LevelSystem : MonoBehaviour
         Debug.Log("최종 Lv " + level + ", 경험치 " + exp + " / " + (level * 10000));
     }
 }
+
+
+//교수님 제가 많이 좋아해용~
